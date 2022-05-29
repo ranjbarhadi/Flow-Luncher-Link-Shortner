@@ -1,0 +1,12 @@
+{
+    "ID": "8B1336DF-D122-45FE-B284-8EAEE6EB5C9B",
+    "ActionKeyword": "minify",
+    "Name": "minify",
+    "Description": "a simle link shortner",
+    "Author": "ranjbarhadi",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/ranjbarhadi/Flow.Launcher.Plugin.minify",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.minify.dll"
+}

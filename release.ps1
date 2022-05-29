@@ -1,0 +1,2 @@
+dotnet publish Flow.Launcher.Plugin.minify -c Release -r win-x64
+Compress-Archive -LiteralPath Flow.Launcher.Plugin.minify/bin/Release/win-x64/publish -DestinationPath Flow.Launcher.Plugin.minify/bin/minify.zip -Force
